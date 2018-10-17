@@ -1,0 +1,29 @@
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\obj\Debug\Project_Mirai_Second.Resources.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\obj\Debug\Project Mirai Second.vbproj.GenerateResource.Cache
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\bin\Debug\Project Mirai Second.exe.config
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\bin\Debug\Project Mirai Second.exe
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\bin\Debug\Project Mirai Second.pdb
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\bin\Debug\Project Mirai Second.xml
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\obj\Debug\Project Mirai Second.exe
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\obj\Debug\Project Mirai Second.xml
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\obj\Debug\Project Mirai Second.pdb
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\obj\Debug\Project_Mirai_Second.Login.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\obj\Debug\Project_Mirai_Second.Scratch.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\obj\Debug\Project_Mirai_Second.Dashboard.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\obj\Debug\Project_Mirai_Second.About.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\bin\Debug\MySql.Data.dll
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\obj\Debug\Project Mirai Second.vbprojResolveAssemblyReference.cache
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\obj\Debug\Project_Mirai_Second.Backdrop.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\obj\Debug\Project_Mirai_Second.Inventory.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\obj\Debug\Project_Mirai_Second.POS.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\obj\Debug\Project_Mirai_Second.Reports.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\obj\Debug\Project_Mirai_Second.Sales.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\obj\Debug\Project_Mirai_Second.POS_AddUser.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\obj\Debug\Project_Mirai_Second.Inv_AddSupplier.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\obj\Debug\Project_Mirai_Second.Inv_AddInventory.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\obj\Debug\Project_Mirai_Second.Inv_Transfers.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\obj\Debug\Project_Mirai_Second.POS_EditUser.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\obj\Debug\Project_Mirai_Second.POS_RemoveUser.resources
+C:\Users\Mark Nolledo\Documents\Visual Studio 2012\Projects\Project Mirai Second\Project Mirai Second\obj\Debug\Project_Mirai_Second.POS_TransactionDetails.resources
